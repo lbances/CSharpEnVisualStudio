@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="088e775528d642128a77107e93889ac7" Name="Diagram1">
+        <EntityTypeShape EntityType="BD_OlvaModel.Cliente" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_OlvaModel.Destinatario" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_OlvaModel.Empleado" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_OlvaModel.Producto" Width="2" PointX="5.125" PointY="1.5" IsExpanded="true" />
+        <AssociationConnector Association="BD_OlvaModel.FK_Cliente_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_OlvaModel.FK_Producto_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_OlvaModel.FK_Producto_Destinatario" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

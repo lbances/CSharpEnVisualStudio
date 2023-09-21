@@ -1,0 +1,16 @@
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\bin\Debug\pCliente.exe.config
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\bin\Debug\pCliente.exe
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\bin\Debug\pCliente.pdb
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\bin\Debug\EntityFramework.dll
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\bin\Debug\EntityFramework.xml
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\obj\Debug\pCliente.csproj.AssemblyReference.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\obj\Debug\pCliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\obj\Debug\pCliente.Form1.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\obj\Debug\pCliente.Properties.Resources.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\obj\Debug\pCliente.csproj.GenerateResource.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\obj\Debug\pCliente.csproj.CoreCompileInputs.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\obj\Debug\pCliente.csproj.CopyComplete
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\obj\Debug\pCliente.exe
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pCliente\obj\Debug\pCliente.pdb

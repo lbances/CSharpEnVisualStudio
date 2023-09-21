@@ -1,0 +1,11 @@
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\bin\Debug\EC3_Grupo7.exe.config
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\bin\Debug\EC3_Grupo7.exe
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\bin\Debug\EC3_Grupo7.pdb
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\obj\Debug\EC3_Grupo7.csproj.AssemblyReference.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\obj\Debug\EC3_Grupo7.csproj.SuggestedBindingRedirects.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\obj\Debug\EC3_Grupo7.Properties.Resources.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\obj\Debug\EC3_Grupo7.csproj.GenerateResource.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\obj\Debug\EC3_Grupo7.csproj.CoreCompileInputs.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\obj\Debug\EC3_Grupo7.exe
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\obj\Debug\EC3_Grupo7.pdb
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 3\Tema 10\EC3\EC3_Grupo7\EC3_Grupo7\obj\Debug\EC3_Grupo7.frmEjercicio1.resources

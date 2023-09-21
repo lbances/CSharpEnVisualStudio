@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BD_OlvaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TipoDoc" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NumDoc" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <Property Name="Nombres" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Apellidos" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Correo" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Direccion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FechaNac" Type="DateTime" Precision="0" />
+    <Property Name="Telefono" Type="String" MaxLength="15" FixedLength="true" Unicode="false" />
+    <Property Name="IdEmpleado" Type="Int32" />
+    <NavigationProperty Name="Empleado" Relationship="Self.FK_Cliente_Empleado" FromRole="Cliente" ToRole="Empleado" />
+    <NavigationProperty Name="Productoes" Relationship="Self.FK_Producto_Cliente" FromRole="Cliente" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="Destinatario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Apellidos" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Dni" Type="String" MaxLength="8" FixedLength="false" Unicode="false" />
+    <Property Name="Direccion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Telefono" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Correo" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Productoes" Relationship="Self.FK_Producto_Destinatario" FromRole="Destinatario" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="Empleado">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombres" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Apellidos" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Dni" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Cargo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Telefono" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+    <Property Name="FechaNac" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Clientes" Relationship="Self.FK_Cliente_Empleado" FromRole="Empleado" ToRole="Cliente" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FechaEnvio" Type="DateTime" Precision="0" />
+    <Property Name="DireccionDestino" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Precio" Type="Double" />
+    <Property Name="IdDestinatario" Type="Int32" />
+    <Property Name="IdCliente" Type="Int32" />
+    <NavigationProperty Name="Cliente" Relationship="Self.FK_Producto_Cliente" FromRole="Producto" ToRole="Cliente" />
+    <NavigationProperty Name="Destinatario" Relationship="Self.FK_Producto_Destinatario" FromRole="Producto" ToRole="Destinatario" />
+  </EntityType>
+  <Association Name="FK_Cliente_Empleado">
+    <End Role="Empleado" Type="Self.Empleado" Multiplicity="0..1" />
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empleado">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cliente">
+        <PropertyRef Name="IdEmpleado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Producto_Cliente">
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="0..1" />
+    <End Role="Producto" Type="Self.Producto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="IdCliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Producto_Destinatario">
+    <End Role="Destinatario" Type="Self.Destinatario" Multiplicity="0..1" />
+    <End Role="Producto" Type="Self.Producto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Destinatario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="IdDestinatario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BD_OlvaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clientes" EntityType="Self.Cliente" />
+    <EntitySet Name="Destinatarios" EntityType="Self.Destinatario" />
+    <EntitySet Name="Empleadoes" EntityType="Self.Empleado" />
+    <EntitySet Name="Productoes" EntityType="Self.Producto" />
+    <AssociationSet Name="FK_Cliente_Empleado" Association="Self.FK_Cliente_Empleado">
+      <End Role="Empleado" EntitySet="Empleadoes" />
+      <End Role="Cliente" EntitySet="Clientes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Producto_Cliente" Association="Self.FK_Producto_Cliente">
+      <End Role="Cliente" EntitySet="Clientes" />
+      <End Role="Producto" EntitySet="Productoes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Producto_Destinatario" Association="Self.FK_Producto_Destinatario">
+      <End Role="Destinatario" EntitySet="Destinatarios" />
+      <End Role="Producto" EntitySet="Productoes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

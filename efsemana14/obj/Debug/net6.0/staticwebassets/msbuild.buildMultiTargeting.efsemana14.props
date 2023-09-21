@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\efsemana14.props" />
+</Project>

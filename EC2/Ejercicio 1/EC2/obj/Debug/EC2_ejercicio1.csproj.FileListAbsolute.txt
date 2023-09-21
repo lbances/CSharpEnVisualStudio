@@ -1,0 +1,11 @@
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\bin\Debug\EC2.exe.config
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\bin\Debug\EC2.exe
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\bin\Debug\EC2.pdb
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\obj\Debug\EC2_ejercicio1.csproj.AssemblyReference.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\obj\Debug\EC2_ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\obj\Debug\EC2.frmEjercicio1.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\obj\Debug\EC2.Properties.Resources.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\obj\Debug\EC2_ejercicio1.csproj.GenerateResource.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\obj\Debug\EC2_ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\obj\Debug\EC2.exe
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 2\Tema 7\EC2\EC2\EC2\obj\Debug\EC2.pdb

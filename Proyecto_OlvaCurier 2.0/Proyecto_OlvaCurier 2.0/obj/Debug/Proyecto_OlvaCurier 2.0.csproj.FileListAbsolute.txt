@@ -1,0 +1,39 @@
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\bin\Debug\Proyecto_OlvaCurier 2.0.exe.config
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\bin\Debug\Proyecto_OlvaCurier 2.0.exe
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\bin\Debug\Proyecto_OlvaCurier 2.0.pdb
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.csproj.AssemblyReference.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmLogin.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmPrincipal.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.Properties.Resources.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.csproj.GenerateResource.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.csproj.CoreCompileInputs.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.exe
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.pdb
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmRestablecer.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmCliente.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmRegistrar.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmVenta.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmCalcularEnvio.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmPagos.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmQR.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\bin\Debug\Proyecto_OlvaCurier 2.0.exe.config
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\bin\Debug\Proyecto_OlvaCurier 2.0.exe
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\bin\Debug\Proyecto_OlvaCurier 2.0.pdb
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.csproj.AssemblyReference.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmCalcularEnvio.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmCliente.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmLogin.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmPagos.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmPrincipal.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmQR.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmRegistrar.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmRestablecer.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmVenta.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.Properties.Resources.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.csproj.GenerateResource.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.csproj.CoreCompileInputs.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.exe
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier 2.0.pdb
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\Proyecto_OlvaCurier 2.0\obj\Debug\Proyecto_OlvaCurier_2._0.frmUsuarios.resources

@@ -1,0 +1,32 @@
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\pClientes.exe.config
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\pClientes.exe
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\pClientes.pdb
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\EntityFramework.dll
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\EntityFramework.xml
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.csproj.AssemblyReference.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.Properties.Resources.resources
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.csproj.GenerateResource.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.csproj.CoreCompileInputs.cache
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.csproj.CopyComplete
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.exe
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.pdb
+C:\Users\antic\OneDrive\Escritorio\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.Clientes.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\pClientes.exe.config
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\pClientes.exe
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\pClientes.pdb
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\EntityFramework.dll
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\EntityFramework.xml
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.csproj.AssemblyReference.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.Clientes.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.Properties.Resources.resources
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.csproj.GenerateResource.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.csproj.CoreCompileInputs.cache
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.csproj.CopyComplete
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.exe
+C:\Users\lbanc\Desktop\Idat\Ciclo III\4. Herramientas de Programación I\Logro 4\Tema 14\EF\Proyecto_OlvaCurier 2.0\pClientes\obj\Debug\pClientes.pdb
